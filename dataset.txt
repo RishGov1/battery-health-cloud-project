@@ -1,0 +1,6 @@
+The dataset is too big to be uploaded to GitHub as even after compressing the dataset is 200 MB and the maximum size that can be uploaded in GitHub is 25 MB.
+Thus I have uploaded the dataset to Google Drive and attached the link here - 
+
+  https://drive.google.com/file/d/165XgrIac3SEpYuJPx5AOijjAVW8yo0Uj/view?usp=sharing
+
+  
